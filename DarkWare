@@ -1,23 +1,23 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "DxrkWare",
+    Name = "DarkWare",
     LoadingTitle = "be patient monkey",
-    LoadingSubtitle = "by Dxrk",
+    LoadingSubtitle = "by Dark",
     ConfigurationSaving = {
         Enabled = true,
-        FolderName = "DxrkWare",
+        FolderName = "DarkWare",
         FileName = "CONFIG"
     },
     KeySystem = true,
     KeySettings = {
-        Title = "DxrkWare",
-        Subtitle = "DxrkWare",
+        Title = "DarkWare",
+        Subtitle = "DarkWare",
         Note = "Enter The Pro Key",
-        FileName = "DxrkWare",
+        FileName = "DarkWare",
         SaveKey = true,
         GrabKeyFromSite = false,
-        Key = "DxrkWareSucksDick"
+        Key = "DarkWareOnTop"
     }
 })
 
